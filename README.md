@@ -1,2 +1,2 @@
 # Studying
-Projetos de estudo e exercícios realizados durante meu curso de Sistemas de Informação.
+Projetos de estudo realizados durante Sistemas de Informação.
